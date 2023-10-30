@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ponto Turístico de Bragança Paulista</title>
+</head>
+<body>
+  <header>
+    <h1>Bragança Paulista</h1>
+  </header>
+
+  <main>
+    <h2>Parque dos Lagos</h2>
+    <img src="parque_dos_lagos.jpg" alt="Parque dos Lagos">
+    <p>O Parque dos Lagos é um belo ponto turístico em Bragança Paulista, com lagos, trilhas e áreas de lazer para toda a família.</p>
+  </main>
+
+  <footer>
+    <p>© 2023 Bragança Paulista - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
